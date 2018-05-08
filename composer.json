@@ -13,5 +13,8 @@
     "components/jquery-migrate": "3.0.0",
     "twbs/bootstrap": "4.0.0-alpha.6",
     "heroku/heroku-buildpack-php": "v99"
+  },
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "v99"
   }
 }
