@@ -1,0 +1,17 @@
+{
+  "name": "justin_morgan/24data",
+  "description": "24data",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Justin Morgan",
+      "email": "justin@justinsmorgan.com"
+    }
+  ],
+  "require": {
+    "components/jquery-migrate": "3.0.0",
+    "twbs/bootstrap": "4.0.0-alpha.6",
+    "heroku/heroku-buildpack-php": "v99"
+  }
+}
