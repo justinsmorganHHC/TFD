@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "adb10cf26c76f2b663209ea018b5ed34",
+    "content-hash": "547e6b6ad98fdc0696f8ea12ba402120",
     "packages": [
         {
             "name": "components/jquery-migrate",
